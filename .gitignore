@@ -5,3 +5,6 @@ testiso/*.so
 testiso/*.iso
 # Claude Code local state (scratchpads, compact handoffs, local settings): never commit
 .claude/
+# AI agent local state (Claude .claude/, Codex .codex/ + .agents/): never commit
+.codex/
+.agents/
