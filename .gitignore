@@ -3,3 +3,5 @@ testiso/*.efi
 testiso/*.o
 testiso/*.so
 testiso/*.iso
+# Claude Code local state (scratchpads, compact handoffs, local settings): never commit
+.claude/
